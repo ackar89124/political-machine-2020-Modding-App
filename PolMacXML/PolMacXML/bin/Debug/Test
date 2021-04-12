@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataSet>
+  <xs:schema id="Name" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Name" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Ideoligy">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Data" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+    <Name>
+      <Ideoligy diffgr:id="Ideoligy1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+        <Data>Con +1</Data>
+      </Ideoligy>
+      <Ideoligy diffgr:id="Ideoligy2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+        <Data>Lib -1</Data>
+      </Ideoligy>
+      <Ideoligy diffgr:id="Ideoligy3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+        <Data>Lab +2</Data>
+      </Ideoligy>
+    </Name>
+  </diffgr:diffgram>
+</DataSet>

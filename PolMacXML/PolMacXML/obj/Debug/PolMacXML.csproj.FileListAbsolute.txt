@@ -1,0 +1,15 @@
+C:\Users\ackar\source\repos\PolMacXML\PolMacXML\bin\Debug\PolMacXML.exe.config
+C:\Users\ackar\source\repos\PolMacXML\PolMacXML\bin\Debug\PolMacXML.exe
+C:\Users\ackar\source\repos\PolMacXML\PolMacXML\bin\Debug\PolMacXML.pdb
+C:\Users\ackar\source\repos\PolMacXML\PolMacXML\obj\Debug\PolMacXML.Properties.Resources.resources
+C:\Users\ackar\source\repos\PolMacXML\PolMacXML\obj\Debug\PolMacXML.csproj.GenerateResource.cache
+C:\Users\ackar\source\repos\PolMacXML\PolMacXML\obj\Debug\PolMacXML.csproj.CoreCompileInputs.cache
+C:\Users\ackar\source\repos\PolMacXML\PolMacXML\obj\Debug\PolMacXML.exe
+C:\Users\ackar\source\repos\PolMacXML\PolMacXML\obj\Debug\PolMacXML.pdb
+C:\Users\ackar\source\repos\PolMacXML\PolMacXML\obj\Debug\PolMacXML.Form1.resources
+C:\Users\ackar\source\repos\PolMacXML\PolMacXML\bin\Debug\PolMacXML.exe.manifest
+C:\Users\ackar\source\repos\PolMacXML\PolMacXML\bin\Debug\PolMacXML.application
+C:\Users\ackar\source\repos\PolMacXML\PolMacXML\obj\Debug\PolMacXML.exe.manifest
+C:\Users\ackar\source\repos\PolMacXML\PolMacXML\obj\Debug\PolMacXML.application
+C:\Users\ackar\source\repos\PolMacXML\PolMacXML\obj\Debug\PolMacXML.Form2.resources
+C:\Users\ackar\source\repos\PolMacXML\PolMacXML\obj\Debug\PolMacXML.csprojAssemblyReference.cache
